@@ -9,6 +9,8 @@
 
 - httpx
 
+- os
+
 - asyncio
 
 - aiogram 3.0.0+
